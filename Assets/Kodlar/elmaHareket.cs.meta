@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 870ff7375309b3d4ea124d832dfe9077
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - elmaPrefab: {fileID: 7105427954750351475, guid: 7aefeb77b2ae5d34f983219dad4b5217, type: 3}
+  - obje: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

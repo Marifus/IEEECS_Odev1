@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea8e25e69d9b3724c800f1f9d7cb88d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - skoryazi: {instanceID: 0}
+  - canyazi: {instanceID: 0}
+  - elma: {instanceID: 0}
+  - sepetPrefab: {fileID: 6216994417195837682, guid: 6ed0a54681a58bf48b03315136069711, type: 3}
+  - elmaPrefab: {fileID: 7105427954750351475, guid: 7aefeb77b2ae5d34f983219dad4b5217, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
